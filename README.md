@@ -1,6 +1,13 @@
-IL MIO SITO!
+# IL MIO SITO!
 
 Ciao, sono Davide, in arte Dusso, e mi piace molto l'inormatica.
+Passo principalmente il tempo a programmare e ad aggiungere pagine a questo sito.
+
+PAGINE DEL SITO:
+
+
+
+
 
 
 
