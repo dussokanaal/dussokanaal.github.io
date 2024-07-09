@@ -6,7 +6,7 @@ Passo principalmente il tempo a programmare e ad aggiungere pagine a questo sito
 PAGINE DEL SITO:
 
 
-in developing
+<a href="https://duzzz-imsleeping.github.io/blog/"> LEGGI IL MIO BLOG </a>
 
 
 
@@ -22,7 +22,7 @@ in developing
 
 
 # <a href="https://linktr.ee/dussokanaal"> I MIEI LINK </a>
-# <a href="https://duzzz-imsleeping.github.io/blog/"> IL MIO BLOG </a> 
+
 
 
 
