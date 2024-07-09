@@ -22,6 +22,7 @@ in developing
 
 
 # <a href="https://linktr.ee/dussokanaal"> I MIEI LINK </a>
+# <a href="https://duzzz-imsleeping.github.io/blog/"> IL MIO BLOG </a> 
 
 
 
