@@ -10,7 +10,7 @@ PAGINE DEL SITO:
 
 
 
-<a href="https://beebest.botdash.app>     IL MIO BOT DISCORD </a>
+<a href="https://beebest.botdash.app> IL MIO BOT DISCORD </a>
 
 
 
