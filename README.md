@@ -10,6 +10,9 @@ PAGINE DEL SITO:
 
 
 
+<a href="https://beebest.botdash/app> IL MIO BOT DISCORD (PUBLIC BETA) </a>
+
+
 
 
 
